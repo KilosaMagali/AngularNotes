@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdemyAngularJs", "UdemyAngularJs\UdemyAngularJs.csproj", "{5449C640-74EF-4832-B681-D5CA127AB81F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularJS", "AngularJS\AngularJS.csproj", "{A01D5AF4-BB66-4B13-A1BB-40A0BA98A4EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherSPA", "WeatherSPA\WeatherSPA.csproj", "{B42CC35F-54A0-4803-8A2F-9344C88BE16D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5449C640-74EF-4832-B681-D5CA127AB81F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5449C640-74EF-4832-B681-D5CA127AB81F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5449C640-74EF-4832-B681-D5CA127AB81F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5449C640-74EF-4832-B681-D5CA127AB81F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A01D5AF4-BB66-4B13-A1BB-40A0BA98A4EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A01D5AF4-BB66-4B13-A1BB-40A0BA98A4EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A01D5AF4-BB66-4B13-A1BB-40A0BA98A4EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A01D5AF4-BB66-4B13-A1BB-40A0BA98A4EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B42CC35F-54A0-4803-8A2F-9344C88BE16D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B42CC35F-54A0-4803-8A2F-9344C88BE16D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B42CC35F-54A0-4803-8A2F-9344C88BE16D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B42CC35F-54A0-4803-8A2F-9344C88BE16D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
